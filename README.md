@@ -1,7 +1,7 @@
 # 👁️‍🗨️ Team: Observer
 
-# 🎮 Project Name: SAHS
- - Sports Auto Highlight System
+# 🎮 Project Name: SaaS
+ - Sports as a Service
 
 # 👥 Project Member
 
