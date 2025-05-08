@@ -1,3 +1,6 @@
+# Team Name
+Observer
+
 # EAHS
 Esports Auto Highlight System
 
