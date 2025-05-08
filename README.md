@@ -1,7 +1,7 @@
 # 👁️‍🗨️ Team: Observer
 
-# 🎮 Project Name: EAHS
- - Esports Auto Highlight System
+# 🎮 Project Name: SAHS
+ - Sports Auto Highlight System
 
 # 👥 Project Member
 
