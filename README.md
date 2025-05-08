@@ -1,10 +1,9 @@
-# Team Name
-Observer
+# Team: Observer
 
-# EAHS
+# Project Name: EAHS
 Esports Auto Highlight System
 
-## 👥 Project Member
+# 👥 Project Member
 
 | 이름 | 역할 | GitHub ID | 비고 |
 |------|------|-----------|------|
