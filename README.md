@@ -13,5 +13,8 @@
 | 조정호 | 팀원 | [@jjh9708](https://github.com/jjh9708) | AI |
 
 
+# 필요 기술
+ - YOLO
 
+# 자료
 - 자료 : https://scented-browser-59a.notion.site/1db71448f82e80d298dfd24d47d9aa0f
