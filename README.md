@@ -25,3 +25,7 @@ Open pose 라는 AI모델을 사용
 좌표에 대한 정보를 Linux OS 로컬 컴퓨터와, 웹 카메라, STM32 보드와 Analog Buzzer 및 LED를 CAN 모듈로 연결
 
 캡쳐된 포즈를 벗어나면, Buzzer가 울리면서, LED 불 점등
+
+# 자료
+[CAN통신방식의_모션Game.pptx](https://github.com/user-attachments/files/20239420/CAN._.Game.pptx)
+
