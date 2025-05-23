@@ -1,6 +1,6 @@
 # 👁️‍🗨️ Team: Observer
 
-# 🎮 Project Name: Perfect pose
+# 🎮 Project Name: SaaS
 
 # 👥 Project Member
 
@@ -13,7 +13,7 @@
 
 
 # 필요 기술
- - CAN, OPENPOSE
+ - YOLOv8
 
 # 개요
 Open pose 라는 AI모델을 사용
